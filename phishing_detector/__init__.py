@@ -1,0 +1,1 @@
+"""Phishing Detector package initialization."""
